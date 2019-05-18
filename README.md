@@ -17,3 +17,7 @@ description: >-
 | Bedrijf | Fuentes \(Spaanse taalschool\) |
 | Afstudeerbegeleidster | Marianne Meijers |
 
+{% hint style="warning" %}
+Copyright: Dit onderzoek, het prototype en alles in deze product biografie is eigendom van Yara van Schaik
+{% endhint %}
+
