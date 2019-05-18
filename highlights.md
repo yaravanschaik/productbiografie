@@ -1,6 +1,6 @@
 # Highlights
 
-Hier zijn momenten te vinden wanneer mijn afstudeeronderzoek extra onder de aandacht \(highlights\) werd gebracht!
+Hier zijn momenten te vinden wanneer mijn afstudeeronderzoek extra onder de aandacht werd gebracht!
 
 ![https://mailchi.mp/6dfb74f0cdb2/fuentes-de-inspiracin-enero-1425341](.gitbook/assets/schermafbeelding-2019-03-07-om-14.18.09.png)
 

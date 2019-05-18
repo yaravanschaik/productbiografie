@@ -6,7 +6,7 @@ description: 2 februari 2019
 
 ### Hier is mijn planning te zien die ik vooraf aan de vijf maanden had gemaakt.
 
-### [https://trello.com/b/8kTsTU5D/afstuderen](https://trello.com/b/8kTsTU5D/afstuderen)
+Hier is mijn dashboard te vinden waarin ik alle taken onderverdeelde. Dankzij mijn Trello board had ik altijd een duidelijk overzicht met wat ik al had gedaan en wat ik nog moest of wilde doen.
 
 ![](.gitbook/assets/planning1-1.jpg)
 
