@@ -115,6 +115,7 @@
   * [Prototype V15](prototype-versies/prototype-v15.md)
   * [Prototype V16](prototype-versies/prototype-v16.md)
   * [Prototype V17](prototype-versies/prototype-v17.md)
+  * [Iteraties](prototype-versies/iteraties.md)
 * [Wat nu?](wat-nu/README.md)
   * [Vervolgstappen](wat-nu/vervolgstappen.md)
   * [Toekomstvisie](wat-nu/toekomstvisie.md)
