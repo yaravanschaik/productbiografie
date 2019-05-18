@@ -21,5 +21,8 @@ Ik had op Duolingo na nog geen ervaring met de apps en de websites ’Forvo’ e
 * Je kan chatten met locals uit het buitenland, maar je weet niet of deze personen betrouwbaar zijn en/of fouten maken in de taal.
 * De dingen die je kan leren zijn erg basic. Je leert niet om diepgaande conversaties te kunnen voeren.
 
+> * Krishnadath, L. \(2017, 24 juni\). 18 gratis taalapps waarmee je je tweede taal succesvol leert. Geraadpleegd op 8 februari 2019, van: [https://www.hetlevendeboek.nl/18-gratis-taal-apps/](https://www.hetlevendeboek.nl/18-gratis-taal-apps/)
+> * Wereldreis. \(1 april 2018\). Zes handige taalapps voor op reis. Geraadpleegd op 8 februari 2019, van: [https://www.wereldreis.net/2018/04/handige-taalapps-reis/](https://www.wereldreis.net/2018/04/handige-taalapps-reis/)
+
 ![](../../.gitbook/assets/scan-7-may-2019-4-5-1.jpg)
 
