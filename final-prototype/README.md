@@ -6,5 +6,9 @@ description: juni 2019
 
 Hier is het uiteindelijke prototype te zien.
 
-[https://projects.invisionapp.com/d/main\#/console/17509723/362930320/preview](https://projects.invisionapp.com/d/main#/console/17509723/362930320/preview)
+[https://invis.io/PBRZB4PRQDH\#/363797726\_7](https://invis.io/PBRZB4PRQDH#/363797726_7)
+
+{% hint style="warning" %}
+Copyright: Dit onderzoek, het prototype en alles in deze product biografie is eigendom van Yara van Schaik
+{% endhint %}
 
