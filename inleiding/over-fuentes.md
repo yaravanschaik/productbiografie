@@ -4,6 +4,8 @@ description: 10 februari 2019
 
 # Over Fuentes
 
+_Voor meer informatie kijk op www.fuentes.nl_ 
+
 #### Waarom Fuentes?
 
 Voor mijn afstudeeronderzoek was ik op zoek naar een Spaanse taalschool waarvoor ik mijn onderzoek kon doen. Ik bezocht Molinos de Viento in Amsterdam en Fuentes in Rotterdam. Beide bedrijven waren geïnteresseerd om mij mijn afstudeeronderzoek bij hun school te laten doen. Uiteindelijk koos ik voor Fuentes aangezien zij een veel grotere school zijn en daardoor meer cursisten hebben. Wat het mij makkelijker maakt om interviews, usability tests en onderzoek te doen met de cursisten. 
