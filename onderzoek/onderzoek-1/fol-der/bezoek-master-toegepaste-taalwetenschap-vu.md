@@ -46,7 +46,10 @@ Wat niet in de app moet:
 
 * Voorkomen dat het niet saai is, geen regeltjes woordjes leren dus 
 
-> * Taalwetenschappen: Toegepaste Taalwetenschap - Master's degree programmes - Master's programmes Vrije Universiteit Amsterdam. \(z.d.\). Geraadpleegd op 10 februari 2019, van [https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx](https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx)
+> * VU. z.d. Taalwetenschappen: Toegepaste Taalwetenschap - Master's degree programmes - Master's programmes Vrije Universiteit Amsterdam. \(z.d.\). Geraadpleegd op 10 februari 2019, van [https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx](https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx)
+> * Wilsum, G. z.d. Na je afstuderen. Geraadpleegd op 1 maart 2019, van: [https://students.uu.nl/gw/taalwetenschap/studieprogramma/na-je-afstuderen](https://students.uu.nl/gw/taalwetenschap/studieprogramma/na-je-afstuderen)
 > * VU. z.d. Toegepaste Taalwetenschap. Geraadpleegd op 1 maart 2019, van: [https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx](https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx)
+> * UU. z.d. Meertaligheid en taalverwerving. Geraadpleegd op 1 maart 2019, van: [https://www.uu.nl/masters/meertaligheid-en-taalverwerving](https://www.uu.nl/masters/meertaligheid-en-taalverwerving)
 > * van Oostendorp, M. \(2016, 7 juni\). Hoe nuttig is sociolinguistiek? Geraadpleegd op 4 maart 2019, van: [https://www.neerlandistiek.nl/2016/06/hoe-nuttig-is-sociolinguistiek/](https://www.neerlandistiek.nl/2016/06/hoe-nuttig-is-sociolinguistiek/)
+> * HvA. z.d. Studiegids Leraar Nederlands. Geraadpleegd op 1 maart 2019, van: [https://studiegids.hva.nl/studiegids?edu=lrned-vt&acy=2017-2018](https://studiegids.hva.nl/studiegids?edu=lrned-vt&acy=2017-2018)
 

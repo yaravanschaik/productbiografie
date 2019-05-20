@@ -4,11 +4,11 @@ description: 5 maart 2019
 
 # Onderzoeksvragen
 
-### _Design challenge._
+### Hoofdvraag 1
 
-**1. Hoe werken de hersens van de mens op het gebied van de taal?**
+1. Hoe werken de hersens van de mens op het gebied van de taal?
 
-### Onderzoeksvragen:
+#### Deelvragen:
 
 - Hoe en wat doet een mens om een nieuwe taal te leren? - In hoeverre verleerd de mens een taal?
 
@@ -16,15 +16,15 @@ description: 5 maart 2019
 
 
 
-### Design challenge
+### Hoofdvraag 2
 
-**2. Wat als gebruikers geen tijd hebben voor een interactief product dat er voor zorgt dat het niveau van hun geleerde nieuwe vreemde taal gelijk blijft of zal stijgen?**
+2. Wat als gebruikers geen tijd hebben voor een interactief product dat er voor zorgt dat het niveau van hun geleerde nieuwe vreemde taal gelijk blijft of zal stijgen?
 
-### Onderzoeksvragen:
+#### Deelvragen:
 
 - Hoeveel tijd zijn gebruikers bereid om te besteden aan het interactieve product?
 
-- Waar hangt het vanaf hoeveeltijd zij bereid zijn te besteden aan het interactieve product?
+- Waar hangt het vanaf hoeveel tijd zij bereid zijn te besteden aan het interactieve product?
 
 - Is er iets wat er voor zal zorgen dat zij meer tijd bereid zijn te besteden aan het interactieve
 
@@ -32,11 +32,11 @@ product?
 
 
 
-### Design challenge
+### Hoofdvraag 3
 
-**3. Wat als gebruikers niet gecontroleerd worden of zij het interactief product gebruiken? Zullen zij de tool dan wel gebruiken?**
+3. Wat als gebruikers niet gecontroleerd worden of zij het interactief product gebruiken? Zullen zij de tool dan wel gebruiken?
 
-### Onderzoeksvrage:
+#### Deelvragen:
 
 - Zijn gebruikers uit zichzelf al gemotiveerd om een interactief product te gebruiken voor dit probleem of moeten zij hierin geholpen worden?
 
@@ -46,11 +46,11 @@ product?
 
 
 
-### Design challenge
+### Hoofdvraag 4
 
-**4. Wat als gebruikers niet getoetst worden in het interactief product wat er voor zorgt dat de motivatie laag is om hun best te doen, zal het niveau dan nog steeds gelijk blijven of stijgen?**
+4. Wat als gebruikers niet getoetst worden in het interactief product wat er voor zorgt dat de motivatie laag is om hun best te doen, zal het niveau dan nog steeds gelijk blijven of stijgen?
 
-### Onderzoeksvragen:
+#### Deelvragen
 
 - Op wat voor manieren zouden gebruikers getoetst kunnen worden?
 

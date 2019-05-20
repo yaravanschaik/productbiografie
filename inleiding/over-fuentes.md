@@ -26,6 +26,8 @@ _De lesboeken worden regelmatig vernieuwd. Zo kun je altijd rekenen op up-to-dat
 
 _Heb je een wisselend rooster op je werk of kun je een keer niet naar de les komen? Bij Fuentes kun je je les binnen een cursusperiode inhalen op een andere dag of locatie, als jouw cursus daar ook gegeven wordt. Zonder extra kosten. We willen graag dat je zo veel mogelijk naar de les komt: het is de beste manier om je motivatie vast te houden en je doel te bereiken._
 
+![](../.gitbook/assets/image.png)
+
 
 
 ####  

@@ -4,7 +4,9 @@ description: 5 maart 2019
 
 # Design Brief
 
-Hier zijn mijn twee versies van mijn Design Brieven te vinden. Versie 2 is de meest recente versie.
+Hier zijn twee versies van mijn Design Briefs te vinden. In de Design Briefs staat uitgelegd hoe ik tot het project ben gekomen, welk bedrijf er gekoppeld is aan mijn onderzoek, wat het probleem is, de design challenge, waar ik mijn focus op wil leggen en wat mijn globale planning is. 
+
+Versie 2 is de meest recente versie.
 
 {% file src="../../.gitbook/assets/yara.vanschaik.designbrief.pdf" caption="Versie 2 Design Brief" %}
 
