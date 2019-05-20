@@ -1,20 +1,6 @@
 # Table of contents
 
 * [¡Bienvenido!](README.md)
-* [Highlights](highlights.md)
-* [Opleveringen CMD](opleveringen-cmd/README.md)
-  * [Projectvoorstel](opleveringen-cmd/afstudeervaardigheden.md)
-  * [Afstudeervaardigheden](opleveringen-cmd/projectvoorstel.md)
-  * [Project Pitch](opleveringen-cmd/project-pitch.md)
-  * [Design Brief](opleveringen-cmd/design-brief.md)
-  * [Feedback Frenzy Presentatie](opleveringen-cmd/feedback-frenzy-presentatie.md)
-  * [Groenlichtpresentatie](opleveringen-cmd/groenlichtpresentatie.md)
-  * [Design Rationaal](opleveringen-cmd/design-rationaal.md)
-  * [Reflectie Verslag](opleveringen-cmd/untitled.md)
-  * [Promotievideo final product](opleveringen-cmd/promotievideo-final-product.md)
-* [Kenmerken waar ik trots op ben](kenmerken-waar-ik-trots-op-ben.md)
-* [Planning](planning.md)
-* [Bronnen](bronnen.md)
 
 ## Onderzoek
 
@@ -133,8 +119,25 @@
 
 * [Over Fuentes](inleiding/over-fuentes.md)
 
-## Wat nu?
+## Afronden
 
 * [Vervolgstappen](wat-nu-1/vervolgstappen.md)
 * [Toekomstvisie](wat-nu-1/toekomstvisie.md)
+* [Kenmerken waar ik trots op ben](wat-nu-1/kenmerken-waar-ik-trots-op-ben.md)
+
+## Overige
+
+* [Opleveringen CMD](overige/opleveringen-cmd/README.md)
+  * [Projectvoorstel](overige/opleveringen-cmd/afstudeervaardigheden.md)
+  * [Afstudeervaardigheden](overige/opleveringen-cmd/projectvoorstel.md)
+  * [Project Pitch](overige/opleveringen-cmd/project-pitch.md)
+  * [Design Brief](overige/opleveringen-cmd/design-brief.md)
+  * [Feedback Frenzy Presentatie](overige/opleveringen-cmd/feedback-frenzy-presentatie.md)
+  * [Groenlichtpresentatie](overige/opleveringen-cmd/groenlichtpresentatie.md)
+  * [Design Rationaal](overige/opleveringen-cmd/design-rationaal.md)
+  * [Reflectie Verslag](overige/opleveringen-cmd/untitled.md)
+  * [Promotievideo final product](overige/opleveringen-cmd/promotievideo-final-product.md)
+* [Planning](overige/planning.md)
+* [Bronnen](overige/bronnen.md)
+* [Highlights](overige/highlights.md)
 
