@@ -1,7 +1,6 @@
 # Table of contents
 
 * [¡Bienvenido!](README.md)
-* [Over Fuentes](over-fuentes.md)
 * [Highlights](highlights.md)
 * [Opleveringen CMD](opleveringen-cmd/README.md)
   * [Projectvoorstel](opleveringen-cmd/afstudeervaardigheden.md)
@@ -13,9 +12,6 @@
   * [Design Rationaal](opleveringen-cmd/design-rationaal.md)
   * [Reflectie Verslag](opleveringen-cmd/untitled.md)
   * [Promotievideo final product](opleveringen-cmd/promotievideo-final-product.md)
-* [Wat nu?](wat-nu/README.md)
-  * [Vervolgstappen](wat-nu/vervolgstappen.md)
-  * [Toekomstvisie](wat-nu/toekomstvisie.md)
 * [Kenmerken waar ik trots op ben](kenmerken-waar-ik-trots-op-ben.md)
 * [Planning](planning.md)
 * [Bronnen](bronnen.md)
@@ -132,4 +128,13 @@
   * [Prototype V16](prototype/prototype-versies/prototype-v16.md)
   * [Prototype V17](prototype/prototype-versies/prototype-v17.md)
   * [Iteraties](prototype/prototype-versies/iteraties.md)
+
+## Inleiding
+
+* [Over Fuentes](inleiding/over-fuentes.md)
+
+## Wat nu?
+
+* [Vervolgstappen](wat-nu-1/vervolgstappen.md)
+* [Toekomstvisie](wat-nu-1/toekomstvisie.md)
 
