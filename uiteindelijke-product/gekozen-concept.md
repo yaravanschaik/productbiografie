@@ -2,10 +2,6 @@
 
 \[Afbeeldingen en tekst worden nog aangepast. Uiterlijk 3 juni is deze pagina af\]
 
-![](../.gitbook/assets/dashboard_500punten.jpg)
-
-![Afbeelding 3](../.gitbook/assets/extra_opties.jpg)
-
   
 **Voor wie wordt het concept?**
 
@@ -19,10 +15,6 @@ De app biedt taalgames aan, zie afbeelding 1. Deze games zijn allen gebaseerd op
 * Gebruikers die \(nog\) niet een cursist zijn of cursisten die na 30 dagen de code willen gebruiken moeten een niveautest doen om te kijken welk niveau zij beheersen.
 
 De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten belonen. Uiteraard moet de app ook zorgen dat gebruikers regelmatig oefenen en niet te veel op één moment oefenen en vervolgens weer heel lang niet. Daarom zijn er een aantal regels wat betreft de puntentelling. 
-
-![Afbeelding 2](../.gitbook/assets/dashboard_uitleg4.jpg)
-
-![Afbeelding 1](../.gitbook/assets/luister_41_2_antwoord.jpg)
 
 **De regels betreft de puntentelling, zie afbeelding 2:**
 
