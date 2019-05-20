@@ -8,9 +8,9 @@ description: 9 mei 2019
 
 Donderdag 9 mei bezocht ik het hoofdkantoor van Fuentes in Rotterdam. Hier liet ik hun mijn huidige prototype zien. Ik liep door de hele applicatie heen en door het concept. Vervolgens konden zijn vragen stellen en feedback hierop geven. Hierna liet ik twee medewerksters van Fuentes de applicatie testen. Lees hier alles over de usability tests met hun twee medewerksters Lorrain & Marieke:
 
-{% page-ref page="../onderzoek-1/usability-tests-1/lorrain-hoofdkantoor-fuentes-9-mei.md" %}
+{% page-ref page="../onderzoek/onderzoek-1/usability-tests-1/lorrain-hoofdkantoor-fuentes-9-mei.md" %}
 
-{% page-ref page="../onderzoek-1/usability-tests-1/marieke-hoofdkantoor-fuentes-9-mei.md" %}
+{% page-ref page="../onderzoek/onderzoek-1/usability-tests-1/marieke-hoofdkantoor-fuentes-9-mei.md" %}
 
 ### Hieronder is de feedback van Michiel en Otto te lezen:
 

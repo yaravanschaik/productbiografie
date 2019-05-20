@@ -8,7 +8,7 @@ Hier zijn momenten te vinden wanneer mijn afstudeeronderzoek extra onder de aand
 
 Een stukje in de digitale nieuwsbrief van Fuentes over mijn afstudeerproject. Deze nieuwsbrief is naar alle cursisten gemaild. Dat zijn er een hoop! Hierdoor kreeg ik ook van cursisten mails. Zie hieronder wat zij mij zoal mailde:
 
-{% page-ref page="onderzoek-1/group-brah/mails-van-cursisten.md" %}
+{% page-ref page="onderzoek/onderzoek-1/group-brah/mails-van-cursisten.md" %}
 
 ![https://www.instagram.com/p/BxPklMiFbb3/?utm\_source=ig\_web\_copy\_link](.gitbook/assets/img_0896.PNG)
 
