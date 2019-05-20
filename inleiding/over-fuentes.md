@@ -4,7 +4,7 @@ description: 10 februari 2019
 
 # Over Fuentes
 
-_Voor meer informatie kijk op www.fuentes.nl_ 
+_Voor meer informatie kijk op_ [_www.fuentes.nl_ ](www.fuentes.nl) __
 
 #### Waarom Fuentes?
 

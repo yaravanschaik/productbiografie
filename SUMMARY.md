@@ -52,6 +52,7 @@
   * [Marieke \(hoofdkantoor Fuentes\) - 9 mei](onderzoek/usability-tests-1/marieke-hoofdkantoor-fuentes-9-mei.md)
   * [A/B Testing - 14 mei](onderzoek/usability-tests-1/a-b-testing.md)
   * [Helen \(Minor\) - 14 mei](onderzoek/usability-tests-1/usability-test-helen-minor-14-mei.md)
+  * [Cursusgroep Fuentes 21 mei](onderzoek/usability-tests-1/cursusgroep-fuentes-21-mei.md)
 * [Feedback](onderzoek/feedback-1/README.md)
   * [Wekelijkse bijeenkomst 5 maart](onderzoek/feedback-1/wekelijkse-bijeenkomst-5-maart.md)
   * [Wekelijkse bijeenkomst 12 maart](onderzoek/feedback-1/wekelijkse-bijeenkomst-12-maart.md)
