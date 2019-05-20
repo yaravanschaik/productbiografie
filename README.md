@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welkom in mijn Product Biografie! Bekijk hier wat ik tussen februari 2019 -
+  Welkom in mijn Product Biografie! Bekijk hier wat ik tussen 1 februari - medio
   juni 2019 heb gedaan aan mijn afstudeeronderzoek 'Talen verleren'.
 ---
 
