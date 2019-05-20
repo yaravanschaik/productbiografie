@@ -14,6 +14,10 @@ Haar feedback hierop was:
 * Een notificatie vind ik erg sterk. Zelf lees ik notificaties van apps wel. Ik kan begrijpen dat andere gebruikers dit niet gaan lezen. Dan is het wel sterk om er alsnog terug te kunnen zien wat de bedoeling is.
 * De test met alleen 'nog 7 dagen' na een uitgebreide notificatie is niet duidelijk. 
 
+**Haar conclusie is dat scherm C het duidelijkst de informatie weergeeft. Zowel in een notificatiemelding dat je even alert maakt van belangrijke informatie als dat het staat op je overzicht.**
+
+Doordat één eigelijk geen is, heb ik ook mijn drie huisgenoten naar deze vijf schermen laten kijken. Twee stemmen gingen naar scherm C en 1 stem naar scherm B. Waarbij de stem over scherm C zowel de voordelen als de nadelen erin zag. "Visueel met een balk werken is duidelijk en leuker om naar te kijken, maar alleen een balk geeft niet veel context." was haar argument.
+
 ![A](../../.gitbook/assets/dashboard_10000_1.jpg)
 
 ![B](../../.gitbook/assets/dashboard_10000_2.jpg)

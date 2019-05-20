@@ -4,6 +4,8 @@ description: 11 april 2019
 
 # Feedback Fuentes 11 april
 
+Donderdag 11 april hield ik een telefonische meeting met Michiel & Otto. Ik begon de meeting met een uitleg van het concept terwijl zij door het prototype gingen die ik hen had opgestuurd. Vervolgens ging ik hen vragen stellen en mochten ze feedback geven. Dit is hieronder te lezen.
+
 **Concept uitleggen**
 
 1. Óf cursist met persoonlijke code na certificaat \(binnen 30 dagen\)
