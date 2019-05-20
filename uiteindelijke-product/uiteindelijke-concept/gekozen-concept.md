@@ -1,6 +1,6 @@
 # Gekozen concept
 
-\[Hier wordt nog aan gewerkt. Uiterlijk 7 juni is deze pagina af\]
+\[Afbeeldingen en tekst worden nog aangepast. Uiterlijk 3 juni is deze pagina af\]
 
 ![](../../.gitbook/assets/dashboard_500punten.jpg)
 

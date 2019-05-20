@@ -116,9 +116,8 @@
 * [Uiteindelijke concept](uiteindelijke-product/uiteindelijke-concept/README.md)
   * [Alle meegenomen inzichten](uiteindelijke-product/uiteindelijke-concept/alle-meegenomen-inzichten.md)
   * [Gekozen concept](uiteindelijke-product/uiteindelijke-concept/gekozen-concept.md)
-* [Final Prototype](uiteindelijke-product/final-prototype/README.md)
-  * [Prototype Invision](uiteindelijke-product/final-prototype/prototype-invision.md)
-  * [Video](uiteindelijke-product/final-prototype/video.md)
+  * [Prototype](uiteindelijke-product/uiteindelijke-concept/final-prototype.md)
+  * [Video](uiteindelijke-product/uiteindelijke-concept/video.md)
 
 ## Afronden
 
