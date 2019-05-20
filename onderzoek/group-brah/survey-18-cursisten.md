@@ -8,6 +8,10 @@ description: 27 februari 2019
 
 ![](../../.gitbook/assets/scan-8-may-2019-1-1.jpg)
 
+![Voorzijde van de survey](../../.gitbook/assets/0001.jpg)
+
+![Achterzijde van de survey](../../.gitbook/assets/0002.jpg)
+
 ![](../../.gitbook/assets/scan-8-may-2019-2-1.jpg)
 
 **De belangrijkste conclusies uit de surveys met cursisten:**
