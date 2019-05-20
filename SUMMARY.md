@@ -2,6 +2,10 @@
 
 * [¡Bienvenido!](README.md)
 
+## Inleiding
+
+* [Over Fuentes](inleiding/over-fuentes.md)
+
 ## Onderzoek
 
 * [Het probleem](onderzoek/het-probleem/README.md)
@@ -87,7 +91,7 @@
   * [Feedback Fuentes 9 mei](onderzoek/feedback-1/feedback-fuentes-9-mei.md)
   * [Feedback Groenlicht presentatie](onderzoek/feedback-1/feedback-groenlicht-presentatie.md)
 
-## Prototype
+## Product
 
 * [Uiteindelijke concept](prototype/uiteindelijke-concept/README.md)
   * [Alle meegenomen inzichten](prototype/uiteindelijke-concept/alle-meegenomen-inzichten.md)
@@ -114,10 +118,6 @@
   * [Prototype V16](prototype/prototype-versies/prototype-v16.md)
   * [Prototype V17](prototype/prototype-versies/prototype-v17.md)
   * [Iteraties](prototype/prototype-versies/iteraties.md)
-
-## Inleiding
-
-* [Over Fuentes](inleiding/over-fuentes.md)
 
 ## Afronden
 
