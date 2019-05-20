@@ -113,11 +113,10 @@
 
 ## Uiteindelijke product
 
-* [Uiteindelijke concept](uiteindelijke-product/uiteindelijke-concept/README.md)
-  * [Alle meegenomen inzichten](uiteindelijke-product/uiteindelijke-concept/alle-meegenomen-inzichten.md)
-  * [Gekozen concept](uiteindelijke-product/uiteindelijke-concept/gekozen-concept.md)
-  * [Prototype](uiteindelijke-product/uiteindelijke-concept/final-prototype.md)
-  * [Video](uiteindelijke-product/uiteindelijke-concept/video.md)
+* [Alle meegenomen inzichten](uiteindelijke-product/alle-meegenomen-inzichten.md)
+* [Gekozen concept](uiteindelijke-product/gekozen-concept.md)
+* [Prototype](uiteindelijke-product/final-prototype.md)
+* [Video](uiteindelijke-product/video.md)
 
 ## Afronden
 
@@ -128,8 +127,8 @@
 ## Overige
 
 * [Opleveringen CMD](overige/opleveringen-cmd/README.md)
-  * [Projectvoorstel](overige/opleveringen-cmd/afstudeervaardigheden.md)
   * [Afstudeervaardigheden](overige/opleveringen-cmd/projectvoorstel.md)
+  * [Projectvoorstel](overige/opleveringen-cmd/afstudeervaardigheden.md)
   * [Project Pitch](overige/opleveringen-cmd/project-pitch.md)
   * [Design Brief](overige/opleveringen-cmd/design-brief.md)
   * [Feedback Frenzy Presentatie](overige/opleveringen-cmd/feedback-frenzy-presentatie.md)

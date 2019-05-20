@@ -4,7 +4,7 @@ description: februari 2019 - juni 2019
 
 # Bronnen
 
-### Hier zijn alle overige bronnen te zien die ik gebruikt heb tijdens mijn onderzoek.
+Hier zijn alle overige bronnen te zien die ik gebruikt heb tijdens mijn onderzoek.
 
 {% tabs %}
 {% tab title="Talen leren" %}
