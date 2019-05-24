@@ -57,13 +57,14 @@
 * [Feedback](onderzoek/feedback-1/README.md)
   * [Wekelijkse bijeenkomst 5 maart](onderzoek/feedback-1/wekelijkse-bijeenkomst-5-maart.md)
   * [Wekelijkse bijeenkomst 12 maart](onderzoek/feedback-1/wekelijkse-bijeenkomst-12-maart.md)
-  * [Feedback Fuentes 20 maart](onderzoek/feedback-1/feedback-fuentes-20-maart.md)
+  * [Fuentes \(hoofdkantoor\) 20 maart](onderzoek/feedback-1/feedback-fuentes-20-maart.md)
   * [Feedback Frenzy 9 april](onderzoek/feedback-1/feedback-frenzy.md)
-  * [Feedback Fuentes 11 april](onderzoek/feedback-1/feedback-fuentes-op-prototype.md)
+  * [Fuentes \(hoofdkantoor\) 11 april](onderzoek/feedback-1/feedback-fuentes-op-prototype.md)
   * [Wekelijkse bijeenkomst 16 april](onderzoek/feedback-1/wekelijkse-bijeenkomst-16-april.md)
-  * [Feedback Marianne 7 mei](onderzoek/feedback-1/feedback-marianne-7-mei.md)
-  * [Feedback Fuentes 9 mei](onderzoek/feedback-1/feedback-fuentes-9-mei.md)
-  * [Feedback Groenlicht presentatie](onderzoek/feedback-1/feedback-groenlicht-presentatie.md)
+  * [Marianne \(begeleidster\) 7 mei](onderzoek/feedback-1/feedback-marianne-7-mei.md)
+  * [Fuentes \(hoofdkantoor\) 9 mei](onderzoek/feedback-1/feedback-fuentes-9-mei.md)
+  * [Final Prototype Fuentes \(hoofdkantoor\) 24 mei](onderzoek/feedback-1/final-prototype-fuentes-hoofdkantoor-24-mei.md)
+  * [Groenlicht presentatie](onderzoek/feedback-1/feedback-groenlicht-presentatie.md)
 
 ## Ideeën & inzichten
 

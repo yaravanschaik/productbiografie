@@ -2,7 +2,7 @@
 description: 14 mei 2019
 ---
 
-# Feedback Groenlicht presentatie
+# Groenlicht presentatie
 
 Van Annet en Marianne kreeg ik na mijn groenlichtpresentatie een groen-licht. Ze waren al met al erg tevreden en zien dat ik hard heb gewerkt. Ze zien ook dat mijn product eigelijk al af is en dat over elk detail is nagedacht. Ik kreeg van hen de volgende feedback:
 

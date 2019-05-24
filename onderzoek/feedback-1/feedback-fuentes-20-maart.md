@@ -2,7 +2,7 @@
 description: 20 maart 2019
 ---
 
-# Feedback Fuentes 20 maart
+# Fuentes \(hoofdkantoor\) 20 maart
 
 Hieronder is de feedback te lezen van Michiel en Otto. Zij zijn de eigenaren van Fuentes.
 
