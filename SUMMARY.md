@@ -63,8 +63,8 @@
   * [Wekelijkse bijeenkomst 16 april](onderzoek/feedback-1/wekelijkse-bijeenkomst-16-april.md)
   * [Marianne \(begeleidster\) 7 mei](onderzoek/feedback-1/feedback-marianne-7-mei.md)
   * [Fuentes \(hoofdkantoor\) 9 mei](onderzoek/feedback-1/feedback-fuentes-9-mei.md)
-  * [Final Prototype Fuentes \(hoofdkantoor\) 24 mei](onderzoek/feedback-1/final-prototype-fuentes-hoofdkantoor-24-mei.md)
   * [Groenlicht presentatie](onderzoek/feedback-1/feedback-groenlicht-presentatie.md)
+  * [Final Prototype Fuentes \(hoofdkantoor\) 24 mei](onderzoek/feedback-1/final-prototype-fuentes-hoofdkantoor-24-mei.md)
 
 ## Ideeën & inzichten
 
