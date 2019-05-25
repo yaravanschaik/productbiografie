@@ -5,8 +5,10 @@ Hieronder zijn verschillende design challenges te vinden. Anders gezegd zijn dit
 Mijn design challenge formuleert twee uitdagingen: **1.** Hoe kan een digitale oplossing ervoor zorgen dat cursisten van Fuentes en alle andere Nederlanders die Spaanse hebben geleerd hun behaalde niveau kunnen blijven beheersen, na het afronden van Spaanse lessen? **2.** Hoe kan een digitale oplossing ervoor zorgen dat Fuentes meer cursisten, dus winst krijgt?
 
 {% hint style="success" %}
-Uiteindelijke Design Challenge: Hoe kan een digitale oplossing ervoor zorgen dat cursisten van Fuentes en alle andere Nederlanders die Spaans hebben geleerd hun behaalde niveau kunnen blijven beheersen, na het afronden van Spaanse lessen, waarbij het gebruiken van de digitale oplossing er voor zorgt dat Fuentes meer cursisten, dus winst krijgt? 
+Hoe kan een digitale oplossing ervoor zorgen dat cursisten van Fuentes, en alle andere Nederlanders die Spaans hebben geleerd, hun behaalde niveau kunnen blijven beheersen, na het afronden van Spaanse lessen, waarbij het gebruiken van de digitale oplossing er voor zorgt dat Fuentes meer cursisten krijgt die een \(vervolg\)cursus nemen?  
 {% endhint %}
+
+**Design Challenge Versie 5:** Hoe kan een digitale oplossing ervoor zorgen dat cursisten van Fuentes en Nederlanders die Spaans hebben geleerd, hun behaalde niveau kunnen blijven beheersen, na het afronden van Spaanse lessen, waarbij het gebruiken van de digitale oplossing er voor zorgt dat Fuentes meer cursisten, dus winst krijgt?
 
 **Design Challenge Versie 4:** Hoe kan een digitale oplossing ervoor zorgen dat cursisten van Fuentes en Spaans sprekende mensen hun behaalde niveau kunnen blijven beheersen, na het afronden van Spaanse lessen, waarbij het gebruiken van de digitale oplossing er voor zorgt dat Fuentes meer cursisten, dus winst krijgt?
 
