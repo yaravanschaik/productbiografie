@@ -136,7 +136,7 @@
   * [Design Brief](overige/opleveringen-cmd/design-brief.md)
   * [Feedback Frenzy Presentatie](overige/opleveringen-cmd/feedback-frenzy-presentatie.md)
   * [Groenlichtpresentatie](overige/opleveringen-cmd/groenlichtpresentatie.md)
-  * [Design Rationaal](overige/opleveringen-cmd/design-rationaal.md)
+  * [Design Rationale](overige/opleveringen-cmd/design-rationaal.md)
   * [Reflectie Verslag](overige/opleveringen-cmd/untitled.md)
   * [Promotievideo final product](overige/opleveringen-cmd/promotievideo-final-product.md)
 * [Planning](overige/planning.md)
