@@ -19,3 +19,7 @@ Toen besloot ik om er een groepssessie van te maken. Met de zes cursisten gingen
 * Luister- en spreekgames zijn niet in alle contexten te gebruiken. Zoals in de trein, maar we zien in dat dit wel echt een app is voor mensen die bewust hun vaardigheden willen verbeteren en hier dus serieus thuis of op andere mogelijke locaties zullen gebruiken. Dus niet wanneer zij zich 5 minuten vervelen in de trein.
 * Doe alles in het Spaans. Aan de hand van de context weet een gebruiker wel wat er staat. Zo niet? Dan zoekt die het op en wordt daar weer van geleerd. Geef beginners nog wel hulp.
 
+#### Conclusie
+
+De cursisten gaven aan dat zij verwachten dat zij door middel van de app en de motiverende en sturende notificaties extra interesse zullen krijgen in een \(vervolg\)cursus. Ze zien in dat een digitaal vervolg op een fijne en vertrouwde reeks cursussen je stimuleert om weer terug te gaan naar een nieuwe cursus. 
+
