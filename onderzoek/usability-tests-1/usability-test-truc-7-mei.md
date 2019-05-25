@@ -8,6 +8,8 @@ Dinsdag 7 mei voerde ik een Usability test uit met Truc. Truc heeft in maart en 
 
 ![](../../.gitbook/assets/img_0865.jpg)
 
+![](../../.gitbook/assets/escaneo-25-may-2019-2-1.jpg)
+
 Gekregen feedback:
 
 * Ik zou in het prototype je header vast zetten. Dit ziet er strakker uit en is gebruiksvriendelijk, want zo is je header altijd in beeld. Ook op lange scrollpagina's.

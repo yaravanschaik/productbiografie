@@ -12,6 +12,10 @@ Hier is mijn dashboard te vinden waarin ik alle taken onderverdeelde. Dankzij mi
 
 ![](../.gitbook/assets/planning2-1.jpg)
 
+![18 mei 2019](../.gitbook/assets/escaneo-25-may-2019-3-1.jpg)
+
+![6 mei 2019](../.gitbook/assets/escaneo-25-may-2019-1-1.jpg)
+
 ### TO-DO lijst vrijdag 10 mei
 
 #### Wireframes aanpassen

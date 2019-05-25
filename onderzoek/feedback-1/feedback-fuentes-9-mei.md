@@ -6,6 +6,8 @@ description: 9 mei 2019
 
 ![](../../.gitbook/assets/1a846a9f-f795-4723-9499-320d8b7de86d.JPG)
 
+![](../../.gitbook/assets/escaneo-25-may-2019-4-1.jpg)
+
 Donderdag 9 mei bezocht ik het hoofdkantoor van Fuentes in Rotterdam. Hier liet ik hun mijn huidige prototype zien. Ik liep door de hele applicatie heen en door het concept. Vervolgens konden zijn vragen stellen en feedback hierop geven. Hierna liet ik twee medewerksters van Fuentes de applicatie testen. Lees hier alles over de usability tests met hun twee medewerksters Lorrain & Marieke:
 
 {% page-ref page="../usability-tests-1/lorrain-hoofdkantoor-fuentes-9-mei.md" %}
