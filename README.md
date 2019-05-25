@@ -6,7 +6,7 @@ description: >-
 
 # ¡Bienvenido!
 
-![Animatie in de Fuentes App](.gitbook/assets/img_1231trim.gif)
+![Animatie in de Fuentes App](.gitbook/assets/img_1348trim.gif)
 
 | Naam | Yara van Schaik |
 | :--- | :--- |
