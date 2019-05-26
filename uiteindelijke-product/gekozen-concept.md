@@ -1,8 +1,5 @@
 # Gekozen concept
 
-\[Afbeeldingen en tekst worden nog aangepast. Uiterlijk 3 juni is deze pagina af\]
-
-  
 **Voor wie wordt het concept?**
 
 De digitale oplossing is voor cursisten van Fuentes en gebruikers die \(nog\) niet cursist zijn bij Fuentes. 

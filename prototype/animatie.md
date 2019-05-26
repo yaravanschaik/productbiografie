@@ -6,7 +6,7 @@ description: 24 april 2019
 
 Hier zijn een paar ideeën te zien waar ik mee gespeeld heb om te kijken hoe ik mijn product meer tot leven kon laten komen.
 
-![Animatie en creativiteit in de onboarding van de Fuentes App](../.gitbook/assets/img_1231trim.gif)
+![](../.gitbook/assets/img_1372trim.gif)
 
 {% file src="../.gitbook/assets/img\_1231.trim.MOV" caption="Animatie in de onboarding" %}
 
