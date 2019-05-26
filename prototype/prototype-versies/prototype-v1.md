@@ -1,3 +1,7 @@
+---
+description: 12 maart
+---
+
 # Prototype V1
 
 Hier zijn mijn allereerste low-fi paper schetsen te zien. Deze zijn gebaseerd op alle resultaten uit de onderzoeken die ik had tot 12 maart.
