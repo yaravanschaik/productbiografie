@@ -6,7 +6,7 @@ description: juni 2019
 
 #### Hieronder zijn linkjes te vinden naar mijn uiteindelijke video's.
 
-Rondleiding door de Fuentes app \(voice over\): [https://youtu.be/YwVdQRJ03YQ](https://youtu.be/YwVdQRJ03YQ)
+Rondleiding door de Fuentes app \(voice over\): [https://youtu.be/K5Xv5HP2ymc](https://youtu.be/K5Xv5HP2ymc)
 
 {% file src="../.gitbook/assets/yaravanschaik.fuentesapp.video.mp4" caption="Rondleiding door de Fuentes App \(voice over\)" %}
 
