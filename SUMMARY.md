@@ -112,6 +112,7 @@
   * [Prototype V15](prototype/prototype-versies/prototype-v15.md)
   * [Prototype V16](prototype/prototype-versies/prototype-v16.md)
   * [Prototype V17](prototype/prototype-versies/prototype-v17.md)
+  * [Prototype V18](prototype/prototype-versies/prototype-v18.md)
   * [Iteraties](prototype/prototype-versies/iteraties.md)
 
 ## Uiteindelijke product Fuentes App
