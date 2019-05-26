@@ -120,6 +120,7 @@
 * [Gekozen concept](uiteindelijke-product/gekozen-concept.md)
 * [Prototype](uiteindelijke-product/final-prototype.md)
 * [Video](uiteindelijke-product/video.md)
+* [Micorinteracties](uiteindelijke-product/micorinteracties.md)
 
 ## Afronden
 
