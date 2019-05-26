@@ -1,5 +1,5 @@
 ---
-description: februari 2019 - juni 2019
+description: januari 2019 - juni 2019
 ---
 
 # Bronnen
