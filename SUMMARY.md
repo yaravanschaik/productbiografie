@@ -119,7 +119,7 @@
 * [Alle meegenomen inzichten](uiteindelijke-product/alle-meegenomen-inzichten.md)
 * [Gekozen concept](uiteindelijke-product/gekozen-concept.md)
 * [Prototype](uiteindelijke-product/final-prototype.md)
-* [Video](uiteindelijke-product/video.md)
+* [Video's](uiteindelijke-product/video.md)
 * [Micorinteracties](uiteindelijke-product/micorinteracties.md)
 
 ## Afronden
@@ -139,7 +139,7 @@
   * [Groenlichtpresentatie](overige/opleveringen-cmd/groenlichtpresentatie.md)
   * [Design Rationale](overige/opleveringen-cmd/design-rationaal.md)
   * [Reflectie Verslag](overige/opleveringen-cmd/untitled.md)
-  * [Promotievideo final product](overige/opleveringen-cmd/promotievideo-final-product.md)
+  * [Video's Fuentes app](overige/opleveringen-cmd/promotievideo-final-product.md)
 * [Planning](overige/planning.md)
 * [Bronnen](overige/bronnen.md)
 * [Highlights](overige/highlights.md)

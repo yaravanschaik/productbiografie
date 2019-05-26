@@ -2,7 +2,7 @@
 description: juni 2019
 ---
 
-# Video
+# Video's
 
 #### Hieronder zijn linkjes te vinden naar mijn uiteindelijke video's.
 
