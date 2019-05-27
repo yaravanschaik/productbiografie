@@ -2,7 +2,7 @@
 description: 10 april 2019
 ---
 
-# Niveautest
+# Fuentes Niveautest
 
 Hier keek ik hoe de huidige niveautest van Fuentes werkt. Hoe zij de tijdsaanduiding doen, hoe ze de aantal vragen tonen en hoe de vragen eruit zien. 
 
