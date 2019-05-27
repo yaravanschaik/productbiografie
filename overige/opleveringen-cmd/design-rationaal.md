@@ -6,7 +6,7 @@ description: april/mei 2019
 
 Hieronder zijn mijn verschillende versies van mijn Design Rationale te zien.
 
-{% file src="../../.gitbook/assets/yaravanschaik.dr.final.pdf" caption="Design Rationale Definitieve versie" %}
+{% file src="../../.gitbook/assets/yaravanschaik.dr.pdf" caption="Design Rationale Definitieve versie" %}
 
 {% file src="../../.gitbook/assets/dr.yara.8mei.pdf" caption="Design Rationale 0.9 Versie 3" %}
 
