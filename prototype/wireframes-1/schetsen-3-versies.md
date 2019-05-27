@@ -44,7 +44,11 @@ Hier zijn er per onderdeel \(homepagina, game-pagina, geschiedenis-pagina, inste
 {% endtab %}
 
 {% tab title="Instellingen pagina" %}
+1.Instellingen bestaat uit: je soort account, je e-mail, je wachtwoord en het toestaan van je microfoon en/of stemherkenning.
 
+2. Instellingen bestaat uit: je soort account op een visuele manier weergeven met de soorten opties die er zijn, je e-mail, je wachtwoord, het aanraden aan vrienden en het toestaan van je microfoon en/of stemherkenning.
+
+3. Hetzelfde als bij schets 2 alleen dan anders vorm gegeven.
 {% endtab %}
 {% endtabs %}
 
