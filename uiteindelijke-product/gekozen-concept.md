@@ -6,14 +6,14 @@ De digitale oplossing is voor cursisten van Fuentes en gebruikers die \(nog\) ni
 
 **Wat kunnen gebruikers doen met het concept?**
 
-De app biedt taalgames aan. Deze games zijn allen gebaseerd op spreek- en luistervaardigheid. Per game is er in de app te zien hoelang een game duurt, hoeveel punten de game maximaal op kan leveren en in welk thema de game heeft. Gebruikers kunnen punten verdienen per game. Zodra een gebruiker voor het eerst in de app binnen komt krijgt de gebruiker standaard 5000 punten op het niveau dat hij of zij beheerst. Dit wordt gecontroleerd op de volgende manier:
+De app biedt taalgames aan. Deze games zijn allen gebaseerd op spreek- en luistervaardigheid. Per game is er in de app te zien hoelang een game duurt, hoeveel punten de game maximaal op kan leveren en in welk thema de game heeft \(zie afbeelding 1\). Gebruikers kunnen punten verdienen per game. Zodra een gebruiker voor het eerst in de app binnen komt krijgt de gebruiker standaard 5000 punten op het niveau dat hij of zij beheerst. Dit wordt gecontroleerd op de volgende manier:
 
-* Cursisten van Fuentes ontvangen een persoonlijke code zodra zij hun certificaat aan het einde van een cursus ontvangen. Deze code is 30 dagen geldig op het behaalde niveau. De reden hiervoor is dat anders ex-cursisten na een lange tijd pas de code gaan gebruiken en dan in de meeste gevallen gezakt zijn in niveau.
-* Gebruikers die \(nog\) niet een cursist zijn of cursisten die na 30 dagen de code willen gebruiken moeten een niveautest doen om te kijken welk niveau zij beheersen.
+* Cursisten van Fuentes ontvangen een persoonlijke code zodra zij hun certificaat aan het einde van een cursus ontvangen. Deze code is 30 dagen geldig op het behaalde niveau. De reden hiervoor is dat anders ex-cursisten na een lange tijd pas de code gaan gebruiken en dan in de meeste gevallen gezakt zijn in niveau \(zie afbeelding 2\).
+* Gebruikers die \(nog\) niet een cursist zijn of cursisten die na 30 dagen de code willen gebruiken moeten een niveautest doen om te kijken welk niveau zij beheersen \(zie afbeelding 3 hieronder\).
 
 De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten belonen. Uiteraard moet de app ook zorgen dat gebruikers regelmatig oefenen en niet te veel op één moment oefenen en vervolgens weer heel lang niet. Daarom zijn er een aantal regels wat betreft de puntentelling. 
 
-**De regels betreft de puntentelling:**
+**De regels betreft de puntentelling \(zie afbeelding 3\):**
 
 * Per 5 dagen dat er niet geoefend wordt, verlies je 300 punten.
 * Per 24 uur zijn er maximaal 600 punten te verdienen.
@@ -22,7 +22,7 @@ De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten b
 * Niet-leden van Fuentes mogen de eerste twee weken gratis gebruik maken van de app.
 * Er is van te voren te zien hoelang een game duurt.
 
-**Wat zijn de kosten van de app?**
+**Wat zijn de kosten van de app \(zie afbeelding 4\)?**
 
 * Cursisten van Fuentes krijgen gratis toegang tot de app met hun persoonlijke code. Deze code geeft hen een gratis ‘Fuentes Basis’-account. Zodra zij een upgrade willen kost dit maandelijks een klein bedrag. Een ‘Fuentes Extra’-account kost 3,99 euro per maand en een ‘Fuentes Plus’-account kost 6,99 euro per maand. 
 * Niet-cursisten kunnen de eerste twee weken gratis gebruik maken van de applicatie. Daarna kost het hen 3,99 euro per maand voor een ‘Fuentes -Basis’-account, 5,99 euro voor een ‘Fuentes-Extra’-account en 8,99 voor een ‘Fuentes-Plus’-account. 
@@ -31,8 +31,24 @@ De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten b
 
 Behalve de spreek- en luister games bevat de app meer mogelijkheden, namelijk:
 
-* Een direct link om je te kunnen inschrijven voor een \(vervolg\)cursus.
-* Je geschiedenis terug bekijken. Dit houdt in de geschiedenis van de spelletjes die je gespeeld hebt en de eventuele cursussen die je gevolgd hebt.
-* Elke week een ‘pepertje’ en een optie om een overzicht te zien met alle pepertjes.
-* Een link naar de website en je account van Fuentes
+* Een direct link om je te kunnen inschrijven voor een \(vervolg\)cursus \(zie afbeelding 5\).
+* Je geschiedenis terug bekijken. Dit houdt in de geschiedenis van de spelletjes die je gespeeld hebt en de eventuele cursussen die je gevolgd hebt \(zie afbeelding 6\).
+* Elke week een ‘pepertje’ en een optie om een overzicht te zien met alle pepertjes \(zie afbeelding 7\).
+* Een link naar de website en je account van Fuentes \(zie afbeelding 5\).
+
+![Afbeelding 1. Mijn overzicht](../.gitbook/assets/dashboard_5000.jpg)
+
+![Afbeelding 2. Persoonlijke code Fuentes cursisten](../.gitbook/assets/onboarding_controlecode.jpg)
+
+![Afbeelding 3. Niveautest voor niet-cursisten](../.gitbook/assets/onboarding_uitlegtest1.jpg)
+
+![Afbeelding 3. Uitleg puntentelling](../.gitbook/assets/uitleg_puntentelling.jpg)
+
+![Afbeelding 4. Alle account mogelijkheden](../.gitbook/assets/extra_opties%20%281%29.jpg)
+
+![Afbeelding 5. Menu \(Direct inschrijven voor cursus &amp; Naar Fuentes.nl\)](../.gitbook/assets/menu_uitgeklapt.jpg)
+
+![Afbeelding 6. Instellingen \(Mijn account, mijn geschiedenis en mijn profiel\)](../.gitbook/assets/instellingen.jpg)
+
+![Afbeelding 7. Pepertjes overzicht](../.gitbook/assets/menu_pepertjes.jpg)
 
