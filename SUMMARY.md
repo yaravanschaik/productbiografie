@@ -119,6 +119,7 @@
 
 * [Alle meegenomen inzichten](uiteindelijke-product/alle-meegenomen-inzichten.md)
 * [Gekozen concept](uiteindelijke-product/gekozen-concept.md)
+* [Toelichting Fuentes App](uiteindelijke-product/toelichting-fuentes-app.md)
 * [Prototype](uiteindelijke-product/final-prototype.md)
 * [Video's](uiteindelijke-product/video.md)
 * [Micorinteracties](uiteindelijke-product/micorinteracties.md)
