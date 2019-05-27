@@ -6,14 +6,14 @@ De digitale oplossing is voor cursisten van Fuentes en gebruikers die \(nog\) ni
 
 **Wat kunnen gebruikers doen met het concept?**
 
-De app biedt taalgames aan, zie afbeelding 1. Deze games zijn allen gebaseerd op spreek- en luistervaardigheid. Per game is er in de app te zien hoelang een game duurt, hoeveel punten de game maximaal op kan leveren en in welk thema de game heeft. Gebruikers kunnen punten verdienen per game. Zodra een gebruiker voor het eerst in de app binnen komt krijgt de gebruiker standaard 5000 punten op het niveau dat hij of zij beheerst. Dit wordt gecontroleerd op de volgende manier:
+De app biedt taalgames aan. Deze games zijn allen gebaseerd op spreek- en luistervaardigheid. Per game is er in de app te zien hoelang een game duurt, hoeveel punten de game maximaal op kan leveren en in welk thema de game heeft. Gebruikers kunnen punten verdienen per game. Zodra een gebruiker voor het eerst in de app binnen komt krijgt de gebruiker standaard 5000 punten op het niveau dat hij of zij beheerst. Dit wordt gecontroleerd op de volgende manier:
 
 * Cursisten van Fuentes ontvangen een persoonlijke code zodra zij hun certificaat aan het einde van een cursus ontvangen. Deze code is 30 dagen geldig op het behaalde niveau. De reden hiervoor is dat anders ex-cursisten na een lange tijd pas de code gaan gebruiken en dan in de meeste gevallen gezakt zijn in niveau.
 * Gebruikers die \(nog\) niet een cursist zijn of cursisten die na 30 dagen de code willen gebruiken moeten een niveautest doen om te kijken welk niveau zij beheersen.
 
 De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten belonen. Uiteraard moet de app ook zorgen dat gebruikers regelmatig oefenen en niet te veel op één moment oefenen en vervolgens weer heel lang niet. Daarom zijn er een aantal regels wat betreft de puntentelling. 
 
-**De regels betreft de puntentelling, zie afbeelding 2:**
+**De regels betreft de puntentelling:**
 
 * Per 5 dagen dat er niet geoefend wordt, verlies je 300 punten.
 * Per 24 uur zijn er maximaal 600 punten te verdienen.
