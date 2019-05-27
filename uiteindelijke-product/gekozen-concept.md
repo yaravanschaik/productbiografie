@@ -36,6 +36,8 @@ Behalve de spreek- en luister games bevat de app meer mogelijkheden, namelijk:
 * Elke week een ‘pepertje’ en een optie om een overzicht te zien met alle pepertjes \(zie afbeelding 7\).
 * Een link naar de website en je account van Fuentes \(zie afbeelding 5\).
 
+{% page-ref page="toelichting-fuentes-app.md" %}
+
 ![Afbeelding 1. Mijn overzicht](../.gitbook/assets/dashboard_5000.jpg)
 
 ![Afbeelding 2. Persoonlijke code Fuentes cursisten](../.gitbook/assets/onboarding_controlecode.jpg)

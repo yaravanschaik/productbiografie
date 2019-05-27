@@ -8,6 +8,8 @@ Hieronder is extra toelichting op het concept van de Fuentes app te lezen. Dit z
 
 {% page-ref page="../overige/opleveringen-cmd/design-rationaal.md" %}
 
+{% page-ref page="gekozen-concept.md" %}
+
 ![](../.gitbook/assets/11.jpg)
 
 ![](../.gitbook/assets/12.jpg)
