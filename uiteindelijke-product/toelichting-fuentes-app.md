@@ -10,7 +10,7 @@ Hieronder is extra toelichting op het concept van de Fuentes app te lezen. Dit z
 
 {% page-ref page="gekozen-concept.md" %}
 
-![](../.gitbook/assets/11.jpg)
+![](../.gitbook/assets/11%20%281%29.jpg)
 
 ![](../.gitbook/assets/12.jpg)
 
