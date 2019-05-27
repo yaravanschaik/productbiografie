@@ -25,7 +25,7 @@ De punten zijn essentieël en motiverend in de app. De punten kunnen cursisten b
 **Wat zijn de kosten van de app?**
 
 * Cursisten van Fuentes krijgen gratis toegang tot de app met hun persoonlijke code. Deze code geeft hen een gratis ‘Fuentes Basis’-account. Zodra zij een upgrade willen kost dit maandelijks een klein bedrag. Een ‘Fuentes Extra’-account kost 3,99 euro per maand en een ‘Fuentes Plus’-account kost 6,99 euro per maand. 
-* Niet-cursisten kunnen de eerste twee weken gratis gebruik maken van de applicatie. Daarna kost het hen 3,99 euro per maand voor een ‘Fuentes -Basis’-account, 5,99 euro voor een ‘Fuentes-Extra’-account en 8,99 voor een ‘Fuentes-Plus’-account. Op afbeelding 3 is te zien wat deze accounts inhouden
+* Niet-cursisten kunnen de eerste twee weken gratis gebruik maken van de applicatie. Daarna kost het hen 3,99 euro per maand voor een ‘Fuentes -Basis’-account, 5,99 euro voor een ‘Fuentes-Extra’-account en 8,99 voor een ‘Fuentes-Plus’-account. 
 
 **Wat biedt de app nog meer?** 
 
