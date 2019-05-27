@@ -24,11 +24,11 @@ Hieronder zijn twee scans te vinden uit mijn logboek waarin te zien is wat de gr
 
 ![](../../.gitbook/assets/scan-7-may-2019-3-1.jpg)
 
-![](../../.gitbook/assets/7.jpg)
+![](../../.gitbook/assets/13.jpg)
 
-![](../../.gitbook/assets/6.jpg)
+![](../../.gitbook/assets/14.jpg)
 
-![](../../.gitbook/assets/5.jpg)
+![](../../.gitbook/assets/15.jpg)
 
 #### Toelichting op de verschillen tussen beide versies van de drie bovenstaande afbeeldingen:
 
