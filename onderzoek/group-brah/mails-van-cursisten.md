@@ -14,9 +14,5 @@ Ik stond in de nieuwsbrief van Fuentes die naar alle cursisten was gemaild. Hier
 
 ![](../../.gitbook/assets/schermafbeelding-2019-04-13-om-21.06.05.jpg)
 
-![](../../.gitbook/assets/schermafbeelding-2019-03-12-om-10.24.08.jpg)
-
 ![](../../.gitbook/assets/schermafbeelding-2019-03-07-om-13.26.52.jpg)
-
-![](../../.gitbook/assets/schermafbeelding-2019-03-08-om-13.54.35.jpg)
 
