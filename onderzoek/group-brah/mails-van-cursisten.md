@@ -10,9 +10,9 @@ Ik stond in de nieuwsbrief van Fuentes die naar alle cursisten was gemaild. Hier
 
 
 
-![](../../.gitbook/assets/schermafbeelding-2019-04-13-om-21.06.31.jpg)
+![](../../.gitbook/assets/reactie.op.nieuwsbrief2.png)
 
-![](../../.gitbook/assets/schermafbeelding-2019-04-13-om-21.06.05.jpg)
+![](../../.gitbook/assets/reactie.op.nieuwsbrief3.png)
 
 ![](../../.gitbook/assets/schermafbeelding-2019-03-07-om-13.26.52.jpg)
 

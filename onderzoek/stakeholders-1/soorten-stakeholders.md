@@ -50,3 +50,9 @@ Deze stakeholders heb ik ook verdeeld in een stakeholder map. Dat is hieronder t
 {% endtab %}
 {% endtabs %}
 
+![Mail van een cursist van Fuentes die reageerde op mijn stukje tekst in de nieuwsbrief van Fuentes](../../.gitbook/assets/reactie.op.nieuwsbrief3.png)
+
+![Mail van een cursist van Fuentes die reageerde op mijn stukje tekst in de nieuwsbrief van Fuentes](../../.gitbook/assets/reactie.op.nieuwsbrief2.png)
+
+{% page-ref page="../../overige/highlights.md" %}
+
