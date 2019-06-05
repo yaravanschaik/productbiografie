@@ -4,7 +4,7 @@ description: 7 maart 2019
 
 # Bezoek master Toegepaste Taalwetenschap - VU
 
-Mij lijkt het super interessant om meer te weten te komen over hoe wij een taal leren. Uiteraard had ik hier al onderzoek naar gedaan. Zie kopje Desk Research &gt; Hoe leren wij een nieuwe taal?. Ik wilde meer diepgang en graag een gesprek hebben waarbij een expert een beargumenteerde mening kon geven over wat hij/zij van de huidige lesmethodes vindt hoe wij mensen een taal leren op scholen. Ik mailde wat heen en weer met de Vrije Universiteit van Amsterdam en regelde een meeting met een docente van de master Toegepaste Taalwetenschap. Hieronder is alles te lezen wat hier uit kwam.
+Mij lijkt het super interessant om meer te weten te komen over hoe wij een taal leren. Uiteraard had ik hier al onderzoek naar gedaan. Zie Onderzoek &gt;  Desk Research &gt; Hoe leren wij een nieuwe taal?. Ik wilde meer diepgang en graag een gesprek hebben waarbij een expert een beargumenteerde mening kon geven over wat hij/zij van de huidige lesmethodes vindt hoe wij mensen een taal leren op scholen. Ik mailde wat heen en weer met de Vrije Universiteit van Amsterdam en regelde een meeting met een docente van de master Toegepaste Taalwetenschap. Hieronder is alles te lezen wat hier uit kwam.
 
 ![](../../.gitbook/assets/scan-7-may-2019-4-18-1.jpg)
 

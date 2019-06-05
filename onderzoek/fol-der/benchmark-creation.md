@@ -4,7 +4,7 @@ description: 8 februari 2019
 
 # Benchmark creation
 
-Één van de eerste onderzoeken die ik heb uitgevoerd zijn Benchmark creation en Best, good and bad practices. Ik heb bewust ervoor gekozen om deze onderzoeksmethodes al vroeg toe te passen. Ik wilde graag goede voorkennis hebben over bestaande taal- websites en applicaties. Vervolgens wetende dat ik bepaalde aspecten interessant vind en verder op wil focussen. En welke aspecten ik verder wil onderzoeken, omdat ik denk dat deze niet krachtig zijn.
+Één van de eerste onderzoeken die ik heb uitgevoerd zijn Benchmark creation en Best, Good and Bad Practices. Ik heb bewust ervoor gekozen om deze onderzoeksmethodes al vroeg toe te passen. Ik wilde graag goede voorkennis hebben over bestaande taal- websites en applicaties. Vervolgens wetende dat ik bepaalde aspecten interessant vind en verder op wil focussen. En welke aspecten ik verder wil onderzoeken, omdat ik denk dat deze niet krachtig zijn.
 
 ![](../../.gitbook/assets/scan-7-may-2019-4-4-1.jpg)
 

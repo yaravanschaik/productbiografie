@@ -4,7 +4,7 @@ description: 26 februari 2019
 
 # Enquete context cursisten \(77 respondenten\)
 
-Ik heb een enquête opgesteld samen met het hoofd van Fuentes om een goed beeld te krijgen van hun cursisten. De enquête werd door 77 cursisten van Fuentes door heel Nederland ingevuld. Op afbeelding 4 zijn de vragen en resultaten te zien. Uit de enquête blijkt dat 26,6% van de respondenten een website of app gebruikt, buiten de cursus om, om Spaans te oefenen. Dit is op Spaanse films en series na de meest gebruikte tool \(29,9%\). Dit geeft aan dat een app of website een veel gebruikte tool is om Spaans te oefenen voor de cursisten. Dit was voor mij een interessante inzicht. 
+Ik heb een enquête opgesteld samen met het hoofd van Fuentes om een goed beeld te krijgen van hun cursisten. De enquête werd door 77 cursisten van Fuentes door heel Nederland ingevuld. Hieronder zijn de vragen en resultaten te zien. Uit de enquête blijkt dat 26,6% van de respondenten een website of app gebruikt, buiten de cursus om, om Spaans te oefenen. Dit is op Spaanse films en series na de meest gebruikte tool \(29,9%\). Dit geeft aan dat een app of website een veel gebruikte tool is om Spaans te oefenen voor de cursisten. Dit was voor mij een interessante inzicht. 
 
 Link naar de enquête: [https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb-X5PulnrMPtae9P05q5oMJHBhDRrFn5m2g/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb-X5PulnrMPtae9P05q5oMJHBhDRrFn5m2g/viewform?usp=sf_link)
 

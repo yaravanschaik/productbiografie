@@ -1,7 +1,5 @@
 ---
-description: >-
-  Hier is alles te lezen wat ik tegen ben gekomen tijdens het onderzoeken en
-  omschrijven van het probleem.
+description: 1 februari 2019
 ---
 
 # Het probleem
