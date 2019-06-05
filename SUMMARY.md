@@ -5,6 +5,7 @@
 ## Inleiding
 
 * [Over Fuentes](inleiding/over-fuentes.md)
+* [Inleiding](inleiding/inleiding.md)
 
 ## Onderzoek
 
@@ -122,13 +123,14 @@
 * [Toelichting Fuentes App](uiteindelijke-product/toelichting-fuentes-app.md)
 * [Prototype](uiteindelijke-product/final-prototype.md)
 * [Video's](uiteindelijke-product/video.md)
-* [Micorinteracties](uiteindelijke-product/micorinteracties.md)
+* [Microinteracties](uiteindelijke-product/micorinteracties.md)
 
 ## Afronden
 
 * [Vervolgstappen](wat-nu-1/vervolgstappen.md)
 * [Toekomstvisie](wat-nu-1/toekomstvisie.md)
 * [Kenmerken waar ik trots op ben](wat-nu-1/kenmerken-waar-ik-trots-op-ben.md)
+* [Conclusie + waarde](wat-nu-1/conclusie-+-waarde.md)
 
 ## Overige
 

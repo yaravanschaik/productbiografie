@@ -23,9 +23,7 @@ Op afbeelding 8 zijn alle soorten lesmethodes van Fuentes te zien. De overige oe
 
 **Wat ik hieruit mee neem in mijn digitale oplossing:**
 
-- Ik wil dat mijn digitale oplossing ook speels is.
-
-- Ik merk dat cursisten erg tevreden zijn over Fuentes en de lessen erg vertrouwd vinden. Ik wil dat mijn digitale oplossing ook vertrouwd over komt en cursisten hier tevreden over zijn.
-
-- Ik wil de pepertjes overnemen in mijn digitale oplossing.
+*  Ik wil dat mijn digitale oplossing speels is / gamification bevat.
+* Ik merk dat cursisten erg tevreden zijn over Fuentes. Dit blijkt ook uit tevredenheidsonderzoeken van Fuentes. Doordat iedereen Fuentes zo vertrouwt, zullen zij een app die aangeboden wordt door Fuentes ook eerder vertrouwen dan een willekeurige andere taalapp.
+* Ik wil de pepertjes opnemen in mijn digitale oplossing.
 

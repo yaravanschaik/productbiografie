@@ -12,5 +12,5 @@ Hieronder is extra toelichting op het concept van de Fuentes app te lezen. Dit z
 
 ![](../.gitbook/assets/11%20%281%29.jpg)
 
-![](../.gitbook/assets/12.jpg)
+![](../.gitbook/assets/12%20%281%29.jpg)
 

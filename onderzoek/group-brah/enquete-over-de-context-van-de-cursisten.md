@@ -14,17 +14,12 @@ Link naar de enquête: [https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb
 
 **Belangrijke conclusies uit de enquête:**
 
-- 32.5% is 55+ en de grootste leeftijdscategorie.
-
-- Gevolgd door 27,3% met cursisten van 25-30 jaar.
-
-- 39% besteedt buiten de cursus om 2-5 uur per week aan Spaans.
-
-- 93.5% heeft behoefte aan een digitale oplossing dat ervoor zorgt dat zij na het afronden van hun cursus de taal kunnen blijven oefenen.
-
-- 91.7% hiervan ziet deze digitale oplossing graag in de vorm van een applicatie.
-
-- 33.3% zou hier 30-59 minuten per week aan willen besteden.
+*  Met 32.5% is de grootste leeftijdscategorie 55+.
+* Gevolgd door 27,3% met cursisten van 25-30 jaar
+* 39% besteedt buiten de cursus om 2-5 uur per week aan de Spaanse taal.
+* 93.5% heeft behoefte aan een digitale oplossing die ervoor zorgt dat zij na het afronden van hun cursus de taal kunnen blijven oefenen.
+* 91.7% hiervan ziet deze digitale oplossing graag in de vorm van een applicatie.
+* 33.3% zou hier 30-59 minuten per week aan willen besteden.
 
 ![](../../.gitbook/assets/scan-7-may-2019-4-14-1.jpg)
 

@@ -2,7 +2,7 @@
 description: 26 mei 2019
 ---
 
-# Micorinteracties
+# Microinteracties
 
 Hieronder is te zien waar ik in de Fuentes app allemaal op microinteractie-niveau heb uitgewerkt.
 

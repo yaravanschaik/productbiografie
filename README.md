@@ -6,7 +6,7 @@ description: >-
 
 # ¡Bienvenido!
 
-![](.gitbook/assets/img_1372trim.gif)
+![](.gitbook/assets/img_1855trim.gif)
 
 | Naam | Yara van Schaik |
 | :--- | :--- |
