@@ -21,7 +21,7 @@ De punten zijn essentieël en werken motiverend in de app. Uiteindelijk wordt ee
 * Er zijn maximaal 10.000 punten in totaal te verdienen.
 * Bij minimaal 7 dagen lang 10.000 punten te hebben, verdient de gebruiker een beloning. Dit is elke keer een andere beloning om het spannend te houden voor de gebruikers. De beloningen zullen kortingen zijn op een betaald abonnement in de app of andere kortingen. Hierover wordt verder op meer toegelicht.
 * Niet-leden van Fuentes mogen de eerste twee weken gratis gebruik maken van de app.
-* Er is van te voren te zien hoelang een game duurt.
+* Er is van te voren te zien hoelang een spel duurt.
 
 **Wat zijn de kosten van de app \(zie afbeelding 5\)?**
 
@@ -30,7 +30,7 @@ De punten zijn essentieël en werken motiverend in de app. Uiteindelijk wordt ee
 
 **Wat biedt de app nog meer?** 
 
-Behalve de spreek- en luister games bevat de app meer mogelijkheden, namelijk:
+Behalve de spreek- en luister spellen bevat de app meer mogelijkheden, namelijk:
 
 * Een direct link om je te kunnen inschrijven voor een \(vervolg\)cursus \(zie afbeelding 6\).
 * Je geschiedenis terug bekijken. Dit houdt in de geschiedenis van de spelletjes die je gespeeld hebt en de eventuele cursussen die je gevolgd hebt \(zie afbeelding 7\).

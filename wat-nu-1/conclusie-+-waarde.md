@@ -10,5 +10,5 @@ Mijn conclusie is dat mijn Fuentes app antwoord geeft op mijn design challenge:
 
 2. Door de motiverende notificaties en de fijne en vertrouwde omgeving van de app van Fuentes zullen gebruikers \(extra\) interesse krijgen in een \(vervolg\)cursus van Fuentes. 
 
-Op pagina 3 tot en met 10 is te lezen dat cursisten, en Nederlanders die Spaans geleerd hebben, het vervelend vinden dat alle bestaande taalapps enkel basis woorden en zinnen leert en dat je niet kan oefenen op luister- en/of spreekvaardigheden. Dit is de eerste applicatie die specifiek gericht is op spreek- en luistervaardigheden. Dat maakt het product krachtig, want er is veel vraag naar. 
+Op pagina 3 tot en met 10 van mijn Design Rationale is te lezen dat cursisten, en Nederlanders die Spaans geleerd hebben, het vervelend vinden dat alle bestaande taalapps enkel basis woorden en zinnen leert en dat je niet kan oefenen op luister- en/of spreekvaardigheden. Dit is de eerste applicatie die specifiek gericht is op spreek- en luistervaardigheden. Dat maakt het product krachtig, want er is veel vraag naar. 
 

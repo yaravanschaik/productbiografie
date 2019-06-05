@@ -8,16 +8,16 @@ Hieronder is de feedback te lezen die ik kreeg op dinsdag 7 mei van Marianne \(a
 
 ### Feedback Design rationaal
 
-* flow van de schermen in het product toe te lichten 
-* eindproduct is belangrijk
-* gekozen concept visueler maken
+* Flow van de schermen in het product toe te lichten 
+* Eindproduct is belangrijk
+* Gekozen concept visueler maken
 * Job stories verwijzen
 * PvE
 * Iteraties laten zien en benoemen
 
 ### Overige feedback
 
-* video eerder opleveren als het mogelijk is \(bij de eindpresentatie\)
+* Video eerder opleveren als het mogelijk is \(bij de eindpresentatie\)
 
 ### Voorbereide vragen voor Marianne
 
