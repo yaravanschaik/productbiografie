@@ -6,7 +6,7 @@ description: april/mei 2019
 
 Hieronder zijn mijn verschillende versies van mijn Design Rationale te zien.
 
-{% file src="../../.gitbook/assets/yaravanschaikdr.afstuderen.pdf" caption="Design Rationale Definitieve versie " %}
+{% file src="../../.gitbook/assets/yaravanschaik.design-rationale.pdf" caption="Design Rationale Definitieve versie" %}
 
 {% file src="../../.gitbook/assets/yaravanschaik.dr.pdf" caption="Design Rationale Definitieve versie \(voor taal- en spellingcontrole\)" %}
 
