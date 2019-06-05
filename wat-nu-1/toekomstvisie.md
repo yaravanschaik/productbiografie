@@ -22,6 +22,7 @@ Hoe het eruit ziet als...:
 * ... de gratis twee weken voor nieuwe gebruikers afgelopen zijn en ze óf over moeten stappen op een betaald account óf de app niet meer kunnen gebruiken.
 * ... je je betaalde account wil opzeggen of wijzigen.
 * ... je je spel-geschiedenis terug wil zien. In dit scherm moet het ook mogelijk zijn om een spel nogmaals te kunnen spelen en de punten proberen op te hogen. 
+* ... je het antwoord fout hebt en het juiste antwoord wordt laten zien/afgespeeld.
 
 
 
