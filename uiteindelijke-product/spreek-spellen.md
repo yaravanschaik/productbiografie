@@ -14,5 +14,5 @@ description: 30 mei 2019
 >
 > Afbeelding 2. Lakich, R. \(2019, 29 januari\). Lily chinese smart speaker. Geraadpleegd op 12 mei 2019, van: [https://mashable.com/shopping/lily-chinese-smart-speaker-indiegogo-campaign/?europe=true](https://mashable.com/shopping/lily-chinese-smart-speaker-indiegogo-campaign/?europe=true)
 >
-> Afbeelding 3. \[eigen screenshot\]. Geraadpleegd op 20 april 2019 van Duolingo.
+> Afbeelding 3. \[eigen screenshot\]. Geraadpleegd op 20 april 2019, van: [https://mashable.com/shopping/lily-chinese-smart-speaker-indiegogo-campaign/?europe=true](https://mashable.com/shopping/lily-chinese-smart-speaker-indiegogo-campaign/?europe=true).
 
