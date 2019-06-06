@@ -82,7 +82,7 @@
 * [Design Pattern Research](prototype/design-pattern-research-1/README.md)
   * [Onboarding, Profiel, Instellingen, Menu, Audio opnemen & Progress weergeven](prototype/design-pattern-research-1/design-pattern-research.md)
   * [Fuentes Niveautest](prototype/design-pattern-research-1/niveautest.md)
-* [Concepting](prototype/concepting-1/README.md)
+* [Concepting onderzoeken](prototype/concepting-1/README.md)
   * [Programma van Eisen 20 maart](prototype/concepting-1/programma-van-eisen-20-maart.md)
   * [Programma van Eisen 6 mei](prototype/concepting-1/untitled.md)
   * [Hoe Kun Je...?](prototype/concepting-1/hoe-kun-je....md)
