@@ -36,7 +36,7 @@ Ik vertelde Otto en Michiel wat ik allemaal had ondervonden tijdens mijn onderzo
 
 Hieronder is te lezen wat Michiel & Otto als ingevingen hadden. Ook stelden we een lijst met Programma van Eisen op. Die is hier te vinden:
 
-{% page-ref page="../../prototype/concepting-1/programma-van-eisen-20-maart.md" %}
+{% page-ref page="../concepting-1/programma-van-eisen-20-maart.md" %}
 
 ![Afbeelding 2.](../../.gitbook/assets/logboek-scan-2-31-maart-2-1-2.jpg)
 
