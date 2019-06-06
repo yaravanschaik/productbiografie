@@ -4,15 +4,15 @@ description: 27 februari 2019
 
 # Survey \(17 cursisten\)
 
-![](../../.gitbook/assets/img_0876.jpg)
+![Afbeelding 1.](../../.gitbook/assets/img_0876.jpg)
 
-![](../../.gitbook/assets/scan-8-may-2019-1-1.jpg)
+![Afbeelding 2.](../../.gitbook/assets/scan-8-may-2019-1-1.jpg)
 
-![Voorzijde van de survey](../../.gitbook/assets/0001.jpg)
+![Afbeelding 3.](../../.gitbook/assets/0001.jpg)
 
-![Achterzijde van de survey](../../.gitbook/assets/0002.jpg)
+![Afbeelding 4. ](../../.gitbook/assets/0002.jpg)
 
-![](../../.gitbook/assets/scan-8-may-2019-2-1.jpg)
+![Afbeelding 5.](../../.gitbook/assets/scan-8-may-2019-2-1.jpg)
 
 **De belangrijkste conclusies uit de surveys met cursisten:**
 
@@ -27,7 +27,15 @@ Cursisten ervaren de volgende knelpunten bij bestaande taalapps:
 * Je leert er niet/erg weinig een taal van te verstaan of spreken.
 * Er worden vaak dingen fout gerekend die goed zijn doordat de zinsvolgorde van het juiste antwoord maar op één manier geprogrammeerd is.
 
-![](../../.gitbook/assets/scan-7-may-2019-4-17-1.jpg)
+![Afbeelding 6.](../../.gitbook/assets/scan-7-may-2019-4-17-1.jpg)
 
-![](../../.gitbook/assets/scan-7-may-2019-4-16-1.jpg)
+![Afbeelding 7.](../../.gitbook/assets/scan-7-may-2019-4-16-1.jpg)
+
+> * Afbeelding 1. \[eigen foto\]. Schaik, van Y. Survey. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 2. \[eigen foto\]. Schaik, van Y. Survey. Geraadpleegd op 27 februari 2019 
+> * Afbeelding 3. \[eigen foto\]. Schaik, van Y. Survey. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 4. \[eigen foto\]. Schaik, van Y. Survey. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 5. \[eigen foto\]. Schaik, van Y. Survey. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 6. \[eigen foto uit logboek\]. Schaik, van Y. Meer context over de cursisten. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 7. \[eigen foto uit logboek\]. Schaik, van Y. Meer context over de cursisten. Geraadpleegd op 27 februari 2019.
 

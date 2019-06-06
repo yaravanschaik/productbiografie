@@ -8,7 +8,7 @@ Ik heb een enquête opgesteld samen met het hoofd van Fuentes om een goed beeld 
 
 Link naar de enquête: [https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb-X5PulnrMPtae9P05q5oMJHBhDRrFn5m2g/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb-X5PulnrMPtae9P05q5oMJHBhDRrFn5m2g/viewform?usp=sf_link)
 
-![](../../.gitbook/assets/scan-7-may-2019-4-13-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-13-1.jpg)
 
 
 
@@ -21,5 +21,8 @@ Link naar de enquête: [https://docs.google.com/forms/d/e/1FAIpQLSd1-5jESqgqsgHb
 * 91.7% hiervan ziet deze digitale oplossing graag in de vorm van een applicatie.
 * 33.3% zou hier 30-59 minuten per week aan willen besteden.
 
-![](../../.gitbook/assets/scan-7-may-2019-4-14-1.jpg)
+![Afbeelding 2.](../../.gitbook/assets/scan-7-may-2019-4-14-1.jpg)
+
+> * Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Enquête. Geraadpleegd op 26 februari 2019.
+> * Afbeelding 2. \[eigen foto uit logboek\]. Schaik, van Y. Enquête. Geraadpleegd op 26 februari 2019.
 

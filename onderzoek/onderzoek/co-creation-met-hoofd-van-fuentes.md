@@ -6,7 +6,7 @@ description: 20 maart 2019
 
 Ik vertelde Otto en Michiel wat ik allemaal had ondervonden tijdens mijn onderzoeken. Vervolgens liet ik hen hardop nadenken over ideeën voor een digitale oplossing. Hieronder is te zien wat eruit kwam.
 
-![](../../.gitbook/assets/img_0267.JPG)
+![Afbeelding 1.](../../.gitbook/assets/img_0267.JPG)
 
 {% tabs %}
 {% tab title="Michiel" %}
@@ -38,5 +38,8 @@ Hieronder is te lezen wat Michiel & Otto als ingevingen hadden. Ook stelden we e
 
 {% page-ref page="../../prototype/concepting-1/programma-van-eisen-20-maart.md" %}
 
-![](../../.gitbook/assets/logboek-scan-2-31-maart-2-1-2.jpg)
+![Afbeelding 2.](../../.gitbook/assets/logboek-scan-2-31-maart-2-1-2.jpg)
+
+> * Afbeelding 1. \[eigen foto\]. Schaik, van Y. Bezoek Fuentes. Geraadpleegd op 20 maart 2019.
+> * Afbeelding 2. \[eigen foto uit logboek\]. Schaik, van Y. Co-creation. Geraadpleegd op 20 maart 2019.
 

@@ -27,3 +27,9 @@ Op afbeelding 2 zijn alle soorten lesmethodes van Fuentes te zien. De overige oe
 * Ik merk dat cursisten erg tevreden zijn over Fuentes. Dit blijkt ook uit tevredenheidsonderzoeken van Fuentes. Doordat iedereen Fuentes zo vertrouwt, zullen zij een app die aangeboden wordt door Fuentes ook eerder vertrouwen dan een willekeurige andere taalapp.
 * Ik wil de pepertjes opnemen in mijn digitale oplossing.
 
+> * Afbeelding 1. \[eigen foto\]. Schaik, van Y. Fuentes werkboek. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 2. \[screenshot\]. Schaik, van Y. Fuentes werkboek. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 3. \[screenshot\]. Schaik, van Y. Fuentes werkboek. Geraadpleegd op 27 februari 2019. 
+> * Afbeelding 4. \[screenshot\]. Schaik, van Y. Fuentes werkboek. Geraadpleegd op 27 februari 2019.
+> * Afbeelding 5. \[screenshot\]. Schaik, van Y. Fuentes werkboek. Geraadpleegd op 27 februari 2019.
+
