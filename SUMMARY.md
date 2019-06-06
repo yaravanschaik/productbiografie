@@ -124,7 +124,7 @@
 * [Prototype](uiteindelijke-product/final-prototype.md)
 * [Video's](uiteindelijke-product/video.md)
 * [Microinteracties](uiteindelijke-product/micorinteracties.md)
-* [Spreek-spellen](uiteindelijke-product/spreek-spellen.md)
+* [Spraak-herkenning](uiteindelijke-product/spreek-spellen.md)
 
 ## Afronden
 
