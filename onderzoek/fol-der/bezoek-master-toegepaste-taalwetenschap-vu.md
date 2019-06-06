@@ -6,9 +6,9 @@ description: 7 maart 2019
 
 Mij lijkt het super interessant om meer te weten te komen over hoe wij een taal leren. Uiteraard had ik hier al onderzoek naar gedaan. Zie Onderzoek &gt;  Desk Research &gt; Hoe leren wij een nieuwe taal?. Ik wilde meer diepgang en graag een gesprek hebben waarbij een expert een beargumenteerde mening kon geven over wat hij/zij van de huidige lesmethodes vindt hoe wij mensen een taal leren op scholen. Ik mailde wat heen en weer met de Vrije Universiteit van Amsterdam en regelde een meeting met een docente van de master Toegepaste Taalwetenschap. Hieronder is alles te lezen wat hier uit kwam.
 
-![](../../.gitbook/assets/scan-7-may-2019-4-18-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-18-1.jpg)
 
-![](../../.gitbook/assets/scan-7-may-2019-4-19-1.jpg)
+![Afbeelding 2.](../../.gitbook/assets/scan-7-may-2019-4-19-1.jpg)
 
   
 Meeting VU Petra Bos \(docente van de opleiding\):
@@ -46,6 +46,8 @@ Wat niet in de app moet:
 
 * Voorkomen dat het niet saai is, geen regeltjes woordjes leren dus 
 
+> * Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Bezoek VU. Geraadpleegd op 7 maart 2019.
+> * Afbeelding 2. \[eigen foto uit logboek\]. Schaik, van Y. Bezoek VU. Geraadpleegd op 7 maart 2019.
 > * VU. z.d. Taalwetenschappen: Toegepaste Taalwetenschap - Master's degree programmes - Master's programmes Vrije Universiteit Amsterdam. \(z.d.\). Geraadpleegd op 10 februari 2019, van [https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx](https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx)
 > * Wilsum, G. z.d. Na je afstuderen. Geraadpleegd op 1 maart 2019, van: [https://students.uu.nl/gw/taalwetenschap/studieprogramma/na-je-afstuderen](https://students.uu.nl/gw/taalwetenschap/studieprogramma/na-je-afstuderen)
 > * VU. z.d. Toegepaste Taalwetenschap. Geraadpleegd op 1 maart 2019, van: [https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx](https://masters.vu.nl/en/programmes/taalwetenschappen-toegepaste-taalwetenschap/index.aspx)

@@ -8,7 +8,9 @@ Eén van de eerste dingen die ik ga onderzoeken is: 'Hoe leren wij een nieuwe ta
 
 Hieronder is op de afbeelding te zien wat ik aan informatie vond op deze onderzoeksvraag. Ook is hieronder een bronnenlijst te zien met interessante artikelen die ik vond.
 
-![](../../.gitbook/assets/scan-7-may-2019-4-3-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-3-1.jpg)
+
+> * Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Hoe leren wij een nieuwe taal? Geraadpleegd op 6 februari 2019.
 
 > * Jansen, M. \(2016, 19 april\). Bekijk: Taal leren doe je ook met je ogen. Geraadpleegd op 2 februari 2019, van [https://www.nemokennislink.nl/publicaties/taal-leren-doe-je-ook-met-je-ogen/](https://www.nemokennislink.nl/publicaties/taal-leren-doe-je-ook-met-je-ogen/)
 > * De taalreis. \(2017, 19 oktober\). Je rechterhersenhelft en het leren van een nieuwe taal – Taalreis. Geraadpleegd op 2 februari 2019, van [https://www.detaalreis.nl/je-rechterhersenhelft-en-het-leren-van-een-nieuwe-taal/](https://www.detaalreis.nl/je-rechterhersenhelft-en-het-leren-van-een-nieuwe-taal/)

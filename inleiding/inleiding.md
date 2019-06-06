@@ -17,3 +17,5 @@ Aangezien ik van extra uitdaging hou, heb ik mezelf twee uitdagingen gegeven:
 
 ![Afbeelding 1. Cijfers die respondenten gaven](../.gitbook/assets/bitmap.jpg)
 
+> Afbeelding 1. \[screenshot\]. Schaik, van Y. Geraadpleegd op 1 februari 2019, van: [https://docs.google.com/forms/d/1ohQHO9XJzxrZdzm8SXM6UDayKYwzVs6PO8yG-\_ZzW9E/edit](https://docs.google.com/forms/d/1ohQHO9XJzxrZdzm8SXM6UDayKYwzVs6PO8yG-_ZzW9E/edit)
+

@@ -12,5 +12,7 @@ Zie de link hieronder om de antwoorden op deze vragen te zien.
 
 {% page-ref page="basis-informatie-over-fuentes-cursisten.md" %}
 
-![](../../.gitbook/assets/scan-7-may-2019-4-6-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-6-1.jpg)
+
+> * Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Wat wil ik van de cursisten weten? Geraadpleegd op 8 februari 2019.
 

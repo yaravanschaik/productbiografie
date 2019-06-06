@@ -19,5 +19,7 @@ Hieronder is een samenvatting van deze antwoorden te vinden.
 * Er zijn ook veel 55+'ers, omdat zij meer tijd en geld hebben
 * A2 is het gemiddelde niveau dat gevolgd wordt
 
-![](../../.gitbook/assets/scan-7-may-2019-4-7-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-7-1.jpg)
+
+> Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Alles over Fuentes. Geraadpleegd op 12 februari 2019.
 

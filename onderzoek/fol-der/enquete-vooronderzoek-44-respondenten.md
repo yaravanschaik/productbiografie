@@ -8,9 +8,9 @@ Ik vroeg mij af of ik de enige was die snel de kennis van een extra geleerde taa
 
 Link naar de enquête: [https://docs.google.com/forms/d/e/1FAIpQLSe6KlvTHtkkO-v3FWcx\_skv4TG1kHKKjBHf4d2-HAU-dbegAw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSe6KlvTHtkkO-v3FWcx_skv4TG1kHKKjBHf4d2-HAU-dbegAw/viewform?usp=sf_link)
 
-![](../../.gitbook/assets/scan-7-may-2019-4-1-1.jpg)
+![Afbeelding 1.](../../.gitbook/assets/scan-7-may-2019-4-1-1.jpg)
 
-![](../../.gitbook/assets/scan-7-may-2019-4-2-1.jpg)
+![Afbeelding 2.](../../.gitbook/assets/scan-7-may-2019-4-2-1.jpg)
 
 **Vraag 1.** Heb jij op de middelbare school een nieuwe taal geleerd \(Engels telt hierbij niet mee\) bijvoorbeeld Frans, Duits of Spaans?
 
@@ -77,4 +77,7 @@ Ik weet helemaal niks meer van de taal 0 - Ik weet alles nog van de taal 10
 Ik weet helemaal niks meer van de taal 0 - Ik weet alles nog van de taal 10
 
 Dankzij de enquête die ik opstelde en door 44 respondenten beantwoord is, heb ik de bevestiging dat ik niet alleen ben. Gemiddeld gaven de respondenten zichzelf, 6 jaar nadat de taal voor het laatst geleerd is, nog maar een 4,03 met wat zij aan kennis nog weten van de middelbare school. In vergelijking met mensen van de enquête die zelf kozen om ergens anders nog een taal te leren gaven zij zichzelf nog een 6,10. Hieruit blijkt dat mensen die zelf kiezen om een extra taal te leren minder snel de taalkennis verliezen zodra zij stoppen met het leren van deze taal. Mijn aanname hiervoor is dat deze mensen meer motivatie hebben, doordat zij zelf kiezen om een nieuwe taal te leren in plaats van dat een school je verplicht om een extra taal te leren.
+
+> * Afbeelding 1. \[eigen foto uit logboek\]. Schaik, van Y. Enquête. Geraadpleegd op 2 februari 2019.
+> * Afbeelding 2. \[eigen foto uit logboek\]. Schaik, van Y. Enquéte. Geraadpleegd op 2 februari 2019.
 
