@@ -20,15 +20,15 @@ Hieronder zijn twee scans te vinden uit mijn logboek waarin te zien is wat de gr
 | De uitleg over hoe een niveautest werkt is in één scherm te zien. | De uitleg is opgebroken in vier schermen. Zo maakt het lezen van de uitleg makkelijker en leuker.  |
 | De test is in hetzelfde scherm te starten. | Er verschijnt pas een button met "door naar de test" zodat de vierde uitleg in beeld komt. Dit is om te voorkomen dat gebruikers belangrijke informatie missen. |
 
-![](../../.gitbook/assets/scan-7-may-2019-2-1%20%281%29.jpg)
+![](../.gitbook/assets/scan-7-may-2019-2-1%20%281%29.jpg)
 
-![](../../.gitbook/assets/scan-7-may-2019-3-1.jpg)
+![](../.gitbook/assets/scan-7-may-2019-3-1.jpg)
 
-![](../../.gitbook/assets/14%20%283%29.jpg)
+![](../.gitbook/assets/14%20%283%29.jpg)
 
-![](../../.gitbook/assets/13%20%282%29.jpg)
+![](../.gitbook/assets/13%20%282%29.jpg)
 
-![](../../.gitbook/assets/15%20%282%29.jpg)
+![](../.gitbook/assets/15%20%282%29.jpg)
 
 
 

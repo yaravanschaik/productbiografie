@@ -95,7 +95,7 @@
 * [Extra insights / informatie](prototype/extra-insights-informatie-1/README.md)
   * [Sparren met Armand \(4e jaars CMD'er\)](prototype/extra-insights-informatie-1/sparren-met-armand-4e-jaars-cmder.md)
   * [Logopedist informatie](prototype/extra-insights-informatie-1/logopedist-informatie.md)
-* [Prototype versies](prototype/prototype-versies/README.md)
+* [Prototype versies \(18x\)](prototype/prototype-versies/README.md)
   * [Prototype V1](prototype/prototype-versies/prototype-v1.md)
   * [Prototype V2](prototype/prototype-versies/prototype-v2.md)
   * [Prototype V3](prototype/prototype-versies/prototype-v3.md)
@@ -114,7 +114,7 @@
   * [Prototype V16](prototype/prototype-versies/prototype-v16.md)
   * [Prototype V17](prototype/prototype-versies/prototype-v17.md)
   * [Prototype V18](prototype/prototype-versies/prototype-v18.md)
-  * [Iteraties](prototype/prototype-versies/iteraties.md)
+* [Iteraties](prototype/iteraties.md)
 
 ## Uiteindelijke product Fuentes App
 

@@ -26,5 +26,5 @@ Hier zijn de grootste verschillen te zien tussen prototype V1 en prototype V5. M
 
 #### In de link hieronder wordt er meer ingegaan op de iteraties van het gehele proces:
 
-{% page-ref page="../prototype-versies/iteraties.md" %}
+{% page-ref page="../iteraties.md" %}
 
