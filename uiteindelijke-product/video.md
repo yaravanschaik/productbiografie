@@ -8,6 +8,8 @@ description: juni 2019
 
 Rondleiding door de Fuentes app \(voice over\): [https://youtu.be/K5Xv5HP2ymc](https://youtu.be/K5Xv5HP2ymc)
 
+Promotievideo: [https://youtu.be/7b279IkwDbo](https://youtu.be/7b279IkwDbo)
+
 {% file src="../.gitbook/assets/yaravanschaik.fuentesapp.video.mp4" caption="Rondleiding door de Fuentes App \(voice over\)" %}
 
 {% hint style="warning" %}
