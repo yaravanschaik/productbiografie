@@ -145,6 +145,7 @@
   * [Design Rationale](overige/opleveringen-cmd/design-rationaal.md)
   * [Reflectie Verslag](overige/opleveringen-cmd/untitled.md)
   * [Video's Fuentes app](overige/opleveringen-cmd/promotievideo-final-product.md)
+  * [Eindpresentatie](overige/opleveringen-cmd/eindpresentatie.md)
 * [Planning](overige/planning.md)
 * [Bronnen](overige/bronnen.md)
 * [Highlights](overige/highlights.md)
