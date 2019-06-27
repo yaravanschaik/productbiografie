@@ -67,7 +67,7 @@
   * [Groenlicht presentatie](onderzoek/feedback-1/feedback-groenlicht-presentatie.md)
   * [Final Prototype Fuentes \(hoofdkantoor\) 24 mei](onderzoek/feedback-1/final-prototype-fuentes-hoofdkantoor-24-mei.md)
 
-## Ideeën & inzichten
+## Ideeën & inzichten <a id="prototype"></a>
 
 * [Animatie](prototype/animatie.md)
 * [Wireframes](prototype/wireframes-1/README.md)
@@ -116,7 +116,7 @@
   * [Prototype V18](prototype/prototype-versies/prototype-v18.md)
 * [Iteraties](prototype/iteraties.md)
 
-## Uiteindelijke product Fuentes App
+## Uiteindelijke product Fuentes App <a id="uiteindelijke-product"></a>
 
 * [Alle meegenomen inzichten](uiteindelijke-product/alle-meegenomen-inzichten.md)
 * [Gekozen concept](uiteindelijke-product/gekozen-concept.md)
@@ -126,7 +126,7 @@
 * [Microinteracties](uiteindelijke-product/micorinteracties.md)
 * [Spraak-herkenning](uiteindelijke-product/spreek-spellen.md)
 
-## Afronden
+## Afronden <a id="wat-nu-1"></a>
 
 * [Vervolgstappen](wat-nu-1/vervolgstappen.md)
 * [Toekomstvisie](wat-nu-1/toekomstvisie.md)
