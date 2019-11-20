@@ -4,7 +4,7 @@ Hier zijn momenten te vinden wanneer mijn afstudeeronderzoek extra onder de aand
 
 ![https://www.instagram.com/p/By2ytR6l3r4/](../.gitbook/assets/img_7044.PNG)
 
-Michiel en Otto \(het hoofd van Fuentes\) waren aanwezig bij mijn eindpresentatie. Ze postten na afloop foto's van mijn presentatie op hun Instagram account.
+Michiel en Otto \(het hoofd van Fuentes\) waren aanwezig bij mijn eindpresentatie. Ze postten na afloop foto's van mijn presentatie op het Instagram account van Fuentes.
 
 ![https://mailchi.mp/6dfb74f0cdb2/fuentes-de-inspiracin-enero-1425341](../.gitbook/assets/schermafbeelding-2019-03-07-om-14.18.09.png)
 
