@@ -2,6 +2,10 @@
 
 Hier zijn momenten te vinden wanneer mijn afstudeeronderzoek extra onder de aandacht werd gebracht!
 
+![https://www.instagram.com/p/By2ytR6l3r4/](../.gitbook/assets/img_7044.PNG)
+
+Michiel en Otto \(het hoofd van Fuentes\) waren aanwezig bij mijn eindpresentatie. Ze postten na afloop foto's van mijn presentatie op hun Instagram account.
+
 ![https://mailchi.mp/6dfb74f0cdb2/fuentes-de-inspiracin-enero-1425341](../.gitbook/assets/schermafbeelding-2019-03-07-om-14.18.09.png)
 
 > Bron: Fuentes. \(2019, 6 maart\). Nieuwsbrief Januari 2019. Geraadpleegd op 7 maart 2019, van: [https://mailchi.mp/6dfb74f0cdb2/fuentes-de-inspiracin-enero-1425341](https://mailchi.mp/6dfb74f0cdb2/fuentes-de-inspiracin-enero-1425341)
